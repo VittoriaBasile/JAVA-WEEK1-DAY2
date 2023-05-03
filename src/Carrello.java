@@ -11,4 +11,8 @@ public class Carrello {
 		this.totaleCostoCarrello=totaleCostoCarrello;
 		
 	}
-}
+	 public void totaleCarello() {
+	        System.out.println(this.totaleCostoCarrello);
+	    }
+	}
+
