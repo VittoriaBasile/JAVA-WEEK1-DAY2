@@ -9,7 +9,7 @@ public class Chiamata {
 	}
 	@Override
 	public  String toString() {
-		return this.durata + " " + this.numeroChiamato;
+		return "Durata chiamata" + " " + this.durata + " " + "Numero chiamato" + this.numeroChiamato;
 	}
 
 }
